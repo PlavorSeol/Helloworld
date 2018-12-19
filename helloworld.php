@@ -1,2 +1,4 @@
-<title>Hello, world!</title>
-<?php echo "Hello, world!\n"; ?>
+<?php
+echo "<title>Hello, world!</title>";
+echo "Hello, world!\n";
+?>
